@@ -1,4 +1,4 @@
-# What is the largest prime factor of the number 600,851,475,143?
+""" What is the largest prime factor of the number 600,851,475,143?"""
 def answer(n):
     """function for largest prime factor of the number 600,851,475,143"
     i = 2
